@@ -87,7 +87,7 @@ void main()
 	int ch,n;
 	do
 	{	
-		printf("\nEnter Choice\n1. Create/Insert\n2. Display\n3. Insert at First\n4. Delete First\n5.Delete Rear\n6. Exit\n");
+		printf("\nEnter Choice\n1. Create/Insert\n2. Display\n3. Insert at First\n4. Delete First\n5. Delete Rear\n6. Exit\n");
 		scanf("%d",&ch);
 		switch(ch)
 		{
