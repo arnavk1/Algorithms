@@ -85,7 +85,6 @@ struct Node* display(struct Node *head)
 			printf("%d\t",p->data);
 			p = p->next;
 		}
-		t = p;
 		printf("\nElements from left to right\n");
 		t = last;
 		while(t != NULL)
